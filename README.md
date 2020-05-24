@@ -6,8 +6,11 @@
 
 ## 2. 个人介绍
 商汤高级研究员
+
 Paper: 发表过CVPR,ECCV,ICCV,AAAI论文, citation 800+
+
 Conference Reviewer: CVPR&ECCV&ICCV&AAAI
+
 Challenge: MEGAFACE 冠军，VOT-RT2019 冠军
 
 
