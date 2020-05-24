@@ -13,6 +13,9 @@ Conference Reviewer: CVPR&ECCV&ICCV&AAAI
 
 Challenge: MEGAFACE 冠军，VOT-RT2019 冠军
 
+Google Scholar: https://scholar.google.com/citations?user=ljt16JkAAAAJ&hl=zh-CN
+
+
 
 ## 3. 招聘岗位
 ### 3.1 见习研究员-人脸识别/目标检测/AutoML
